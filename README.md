@@ -2,6 +2,8 @@
 
 I'am Axel Jiménez, musician and Java developer
 
+<img src="https://github.com/esazel/esazel/blob/main/github-readme.png" alt="readme-img">
+
 #### Music platforms:
 
 <a href="https://open.spotify.com/artist/5ZenAajlZvKISoO7Y6hmPv">Spotify</a>
