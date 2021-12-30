@@ -1,9 +1,7 @@
-### Hi! My name is Axel Jiménez
+### Hi world! 
 
-I'am a musician, Java developer and Gay
+I'am Axel Jiménez, musician and Java developer
 
-```html
+##### Contact me on
 
-<h1>Hi</h1>
-
-```
+[axeljimenez.com](https://axeljimenez/ "Axel webpage")
